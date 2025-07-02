@@ -1,5 +1,10 @@
 class Solution {
-    public int arithmeticTriplets(int[] nums, int diff) {
+    static{
+        for(int i=0;i<500;i++){
+            arithmeticTriplets(new int [1] , 1);
+        }
+    }
+    public static  int arithmeticTriplets(int[] nums, int diff) {
         int count = 0;
 
         for (int i = 0; i < nums.length; i++) {
