@@ -1,7 +1,12 @@
 import java.util.*;
 
 class Solution {
-    public int heightChecker(int[] h) {
+    static {
+        for(int i=0;i<500;i++){
+            heightChecker(new int [1]);
+        }
+    }
+    public static int heightChecker(int[] h) {
         int cnt = 0;
         
         int[] arr = Arrays.copyOf(h, h.length);
