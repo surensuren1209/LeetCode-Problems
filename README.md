@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [2048-build-array-from-permutation](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2442-number-of-arithmetic-triplets](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
+| [3778-transform-array-by-parity](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3778-transform-array-by-parity) |
 ## Backtracking
 |  |
 | ------- |
@@ -52,11 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1137-height-checker](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1217-relative-sort-array) |
+| [3778-transform-array-by-parity](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3778-transform-array-by-parity) |
 ## Counting Sort
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1217-relative-sort-array) |
+| [3778-transform-array-by-parity](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3778-transform-array-by-parity) |
 ## Simulation
 |  |
 | ------- |
