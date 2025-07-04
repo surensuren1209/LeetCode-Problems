@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1580-shuffle-the-array) |
 | [1833-find-the-highest-altitude](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1833-find-the-highest-altitude) |
+| [1839-decode-xored-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1839-decode-xored-array) |
 | [2048-build-array-from-permutation](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2442-number-of-arithmetic-triplets](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2048-build-array-from-permutation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1839-decode-xored-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1839-decode-xored-array) |
 <!---LeetCode Topics End-->
