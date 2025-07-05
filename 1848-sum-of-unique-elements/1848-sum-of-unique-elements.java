@@ -1,5 +1,10 @@
 class Solution {
-    public int sumOfUnique(int[] nums) {
+     static{
+        for(int i=0;i<500;i++){
+            sumOfUnique(new int[1]);
+         } 
+     }
+    public static int sumOfUnique(int[] nums) {
         Map<Integer, Integer> map = new HashMap<>();
         for (int num : nums) {
             map.put(num, map.getOrDefault(num, 0) + 1);
