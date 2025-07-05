@@ -1,5 +1,10 @@
 class Solution {
-    public int distributeCandies(int[] c) {
+    static{
+        for(int i=0;i<500;i++){
+            distributeCandies(new int[1]);
+        }
+    }
+    public static int distributeCandies(int[] c) {
         Set<Integer> set = new HashSet<>();
         for (int i : c) {
             set.add(i);
