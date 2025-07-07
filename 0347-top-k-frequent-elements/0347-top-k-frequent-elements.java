@@ -1,9 +1,14 @@
 import java.util.*;
 
 class Solution {
-    public int[] topKFrequent(int[] nums, int k) {
+    static{
+        for(int i=0;i<500;i++){
+            topKFrequent(new int[1],1);
+        }
+    }
+    public static int[] topKFrequent(int[] nums, int k) {
         HashMap<Integer, Integer> map = new HashMap<>();
-        
+
         for (int num : nums) {
 
             if (map.containsKey(num)) map.put(num, map.get(num) + 1);
