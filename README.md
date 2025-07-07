@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2836-neither-minimum-nor-maximum](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3778-transform-array-by-parity](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3778-transform-array-by-parity) |
 ## Backtracking
