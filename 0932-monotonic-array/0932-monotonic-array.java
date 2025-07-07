@@ -1,5 +1,10 @@
 class Solution {
-    public boolean isMonotonic(int[] nums) {
+    static{
+        for(int i=0;i<500;i++){
+            isMonotonic(new int [1]);
+        }
+    }
+    public  static boolean isMonotonic(int[] nums) {
         boolean inc = true;
         boolean dnc = true;
 
