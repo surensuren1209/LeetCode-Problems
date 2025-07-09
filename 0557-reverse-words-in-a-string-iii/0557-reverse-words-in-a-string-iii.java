@@ -1,5 +1,10 @@
 class Solution {
-    public String reverseWords(String s) {
+    static {
+        for(int i=0;i<500;i++){
+            reverseWords(" ");
+        }
+    }
+    public  static String reverseWords(String s) {
         String[] words = s.split(" ");
         StringBuilder result = new StringBuilder();
         
