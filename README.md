@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0039-combination-sum) |
 | [0347-top-k-frequent-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0575-distribute-candies](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0575-distribute-candies) |
+| [0605-can-place-flowers](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0932-monotonic-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0932-monotonic-array) |
 | [0944-smallest-range-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0944-smallest-range-i) |
 | [1137-height-checker](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1137-height-checker) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 ## Divide and Conquer
 |  |
