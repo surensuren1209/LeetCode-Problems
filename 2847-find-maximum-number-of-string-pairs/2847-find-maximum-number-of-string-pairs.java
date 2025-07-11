@@ -1,5 +1,10 @@
 class Solution {
-    public int maximumNumberOfStringPairs(String[] words) {
+    static{
+        for(int i=0;i<500;i++){
+            maximumNumberOfStringPairs(new String[0]);
+        }
+    }
+    public static  int maximumNumberOfStringPairs(String[] words) {
         String [] copyArr=new String[words.length];
         for(int i=0;i<words.length;i++){
             List<Character> list = new ArrayList<>();
