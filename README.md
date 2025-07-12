@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2186-count-vowel-substrings-of-a-string](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2442-number-of-arithmetic-triplets](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2561-number-of-distinct-averages](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2561-number-of-distinct-averages) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1848-sum-of-unique-elements) |
 | [2427-first-letter-to-appear-twice](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3778-transform-array-by-parity](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2186-count-vowel-substrings-of-a-string](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
