@@ -179,14 +179,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0975-range-sum-of-bst](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0975-range-sum-of-bst](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0975-range-sum-of-bst](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
