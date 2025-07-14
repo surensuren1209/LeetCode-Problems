@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0944-smallest-range-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0944-smallest-range-i) |
+| [1610-xor-operation-in-an-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 ## Recursion
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [1610-xor-operation-in-an-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1839-decode-xored-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
