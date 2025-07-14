@@ -242,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0404-sum-of-left-leaves) |
+## Database
+|  |
+| ------- |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1892-find-total-time-spent-by-each-employee) |
 <!---LeetCode Topics End-->
