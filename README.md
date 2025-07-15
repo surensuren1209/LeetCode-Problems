@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1833-find-the-highest-altitude](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [1839-decode-xored-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1839-decode-xored-array) |
 | [1848-sum-of-unique-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1848-sum-of-unique-elements) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0782-jewels-and-stones) |
 | [1454-remove-palindromic-subsequences](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1454-remove-palindromic-subsequences) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1954-replace-all-digits-with-characters](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1954-replace-all-digits-with-characters) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
