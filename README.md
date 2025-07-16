@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
+| [1005-univalued-binary-tree](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1005-univalued-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
+| [1005-univalued-binary-tree](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1005-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
+| [1005-univalued-binary-tree](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1005-univalued-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1005-univalued-binary-tree](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1005-univalued-binary-tree) |
 ## Database
 |  |
 | ------- |
