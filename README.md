@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2881-split-strings-by-separator](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2881-split-strings-by-separator) |
 | [3194-find-words-containing-character](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3226-minimum-number-game) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2881-split-strings-by-separator](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2881-split-strings-by-separator) |
 | [3194-find-words-containing-character](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3396-valid-word) |
 | [3567-convert-date-to-binary](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3567-convert-date-to-binary) |
