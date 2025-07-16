@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1217-relative-sort-array) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1505-create-target-array-in-the-given-order](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1505-create-target-array-in-the-given-order) |
 | [1580-shuffle-the-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1505-create-target-array-in-the-given-order](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
