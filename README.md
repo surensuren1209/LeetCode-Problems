@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0062-unique-paths) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0944-smallest-range-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0944-smallest-range-i) |
 | [1610-xor-operation-in-an-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1610-xor-operation-in-an-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1839-decode-xored-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0242-valid-anagram) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0782-jewels-and-stones) |
