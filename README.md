@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 | [2238-a-number-after-a-double-reversal](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2238-a-number-after-a-double-reversal) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2630-alternating-digit-sum](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2630-alternating-digit-sum) |
 | [2679-count-distinct-numbers-on-board](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2679-count-distinct-numbers-on-board) |
 | [3567-convert-date-to-binary](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3567-convert-date-to-binary) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2561-number-of-distinct-averages](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2561-number-of-distinct-averages) |
 | [2836-neither-minimum-nor-maximum](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [3226-minimum-number-game](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3226-minimum-number-game) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [1448-maximum-69-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Divide and Conquer
 |  |
