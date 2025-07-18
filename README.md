@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2048-build-array-from-permutation](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2442-number-of-arithmetic-triplets](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2561-number-of-distinct-averages](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2561-number-of-distinct-averages) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3226-minimum-number-game](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3226-minimum-number-game) |
 ## Bucket Sort
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## String
 |  |
