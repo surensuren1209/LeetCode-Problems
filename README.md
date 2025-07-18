@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3397-find-the-integer-added-to-array-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3778-transform-array-by-parity](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3778-transform-array-by-parity) |
 ## Backtracking
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2679-count-distinct-numbers-on-board) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2630-alternating-digit-sum](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2630-alternating-digit-sum) |
 | [2679-count-distinct-numbers-on-board](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2679-count-distinct-numbers-on-board) |
 | [3567-convert-date-to-binary](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3567-convert-date-to-binary) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Recursion
 |  |
 | ------- |
