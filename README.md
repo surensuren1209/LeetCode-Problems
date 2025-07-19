@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0287-find-the-duplicate-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0062-unique-paths) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0168-excel-sheet-column-title](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0242-valid-anagram) |
