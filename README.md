@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-day-of-the-year](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1260-day-of-the-year) |
 | [1454-remove-palindromic-subsequences](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1454-remove-palindromic-subsequences) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1797-goal-parser-interpretation](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1797-goal-parser-interpretation) |
 | [1954-replace-all-digits-with-characters](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1954-replace-all-digits-with-characters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
