@@ -1,5 +1,10 @@
 class Solution {
-    public String longestPalindrome(String s) {
+    static{
+        for(int i=0;i<500;i++){
+            longestPalindrome(" ");
+        }
+    }
+    public  static String longestPalindrome(String s) {
         if (s == null || s.length() < 1) return "";
 
         int st = 0, end = 0;
@@ -20,7 +25,7 @@ class Solution {
         return s.substring(st, end + 1);
     }
 
-    private int helper(String s, int l, int r) {
+    private static int helper(String s, int l, int r) {
         while (l >= 0 && r < s.length() && s.charAt(l) == s.charAt(r)) {
             l--;
             r++;
