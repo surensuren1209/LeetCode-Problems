@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0932-monotonic-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0932-monotonic-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0782-jewels-and-stones](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0782-jewels-and-stones) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0933-increasing-order-search-tree](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0933-increasing-order-search-tree) |
 ## Tree
 |  |
@@ -383,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2481-strictly-palindromic-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
