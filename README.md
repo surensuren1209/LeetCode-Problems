@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [1448-maximum-69-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1448-maximum-69-number) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1454-remove-palindromic-subsequences](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1454-remove-palindromic-subsequences) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1797-goal-parser-interpretation) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1954-replace-all-digits-with-characters](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1954-replace-all-digits-with-characters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
