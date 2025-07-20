@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2442-number-of-arithmetic-triplets](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2561-number-of-distinct-averages](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2561-number-of-distinct-averages) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
