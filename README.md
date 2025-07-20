@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-count-distinct-numbers-on-board](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2679-count-distinct-numbers-on-board) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3226-minimum-number-game](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3226-minimum-number-game) |
+| [3540-hash-divided-string](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3540-hash-divided-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2881-split-strings-by-separator](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2881-split-strings-by-separator) |
 | [3194-find-words-containing-character](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3396-valid-word) |
+| [3540-hash-divided-string](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3540-hash-divided-string) |
 | [3567-convert-date-to-binary](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3567-convert-date-to-binary) |
 | [3617-find-the-original-typed-string-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3636-check-balanced-string) |
