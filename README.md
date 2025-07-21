@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2881-split-strings-by-separator](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2881-split-strings-by-separator) |
 | [3194-find-words-containing-character](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3396-valid-word) |
+| [3468-find-the-encrypted-string](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3468-find-the-encrypted-string) |
 | [3540-hash-divided-string](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3540-hash-divided-string) |
 | [3567-convert-date-to-binary](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3567-convert-date-to-binary) |
 | [3617-find-the-original-typed-string-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3617-find-the-original-typed-string-i) |
