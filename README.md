@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1813-maximum-erasure-value](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1833-find-the-highest-altitude](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [1839-decode-xored-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1839-decode-xored-array) |
 | [1848-sum-of-unique-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1848-sum-of-unique-elements) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
+| [1813-maximum-erasure-value](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1848-sum-of-unique-elements) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1813-maximum-erasure-value](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Stack
 |  |
