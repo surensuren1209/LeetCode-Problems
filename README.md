@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1217-relative-sort-array) |
+| [1293-three-consecutive-odds](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1505-create-target-array-in-the-given-order](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1505-create-target-array-in-the-given-order) |
