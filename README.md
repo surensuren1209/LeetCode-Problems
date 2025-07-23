@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0605-can-place-flowers) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [1833-find-the-highest-altitude](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Sorting
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0135-candy) |
 | [0397-integer-replacement](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0397-integer-replacement) |
+| [0410-split-array-largest-sum](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [1448-maximum-69-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0343-integer-break) |
 | [0397-integer-replacement](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0397-integer-replacement) |
+| [0410-split-array-largest-sum](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## String
@@ -399,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
