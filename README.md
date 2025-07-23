@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0168-excel-sheet-column-title](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
+| [0343-integer-break](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0343-integer-break) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0944-smallest-range-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0944-smallest-range-i) |
 | [1115-valid-boomerang](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1115-valid-boomerang) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0343-integer-break) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## String
