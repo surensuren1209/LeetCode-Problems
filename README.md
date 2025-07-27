@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2630-alternating-digit-sum](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2630-alternating-digit-sum) |
 | [2679-count-distinct-numbers-on-board](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2679-count-distinct-numbers-on-board) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3321-type-of-triangle](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3567-convert-date-to-binary](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3567-convert-date-to-binary) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Divide and Conquer
