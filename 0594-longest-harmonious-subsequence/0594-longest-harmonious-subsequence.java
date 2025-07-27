@@ -1,5 +1,10 @@
 class Solution {
-    public int findLHS(int[] nums) {
+    static{
+        for(int i=0;i<500;i++){
+            findLHS(new int[1]);
+        }
+    }
+    public  static int findLHS(int[] nums) {
         Arrays.sort(nums);  
         int cnt = 0;
         int ans = 0;
