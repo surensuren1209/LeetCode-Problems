@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1448-maximum-69-number) |
 | [1610-xor-operation-in-an-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
+| [1761-count-sorted-vowel-strings](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1761-count-sorted-vowel-strings) |
 | [2238-a-number-after-a-double-reversal](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2481-strictly-palindromic-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2481-strictly-palindromic-number) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0343-integer-break) |
 | [0397-integer-replacement](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [1761-count-sorted-vowel-strings](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1761-count-sorted-vowel-strings) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## String
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0062-unique-paths) |
+| [1761-count-sorted-vowel-strings](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1761-count-sorted-vowel-strings) |
 ## Geometry
 |  |
 | ------- |
