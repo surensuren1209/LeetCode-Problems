@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0654-maximum-binary-tree](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0654-maximum-binary-tree) |
 | [0932-monotonic-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0932-monotonic-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0782-jewels-and-stones](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0782-jewels-and-stones) |
 | [1217-relative-sort-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1217-relative-sort-array) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1137-height-checker](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0594-longest-harmonious-subsequence](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1137-height-checker](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -337,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1813-maximum-erasure-value](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
