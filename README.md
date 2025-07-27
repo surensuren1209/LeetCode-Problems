@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2551-apply-operations-to-an-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1168-duplicate-zeros) |
 | [1454-remove-palindromic-subsequences](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1454-remove-palindromic-subsequences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2481-strictly-palindromic-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2679-count-distinct-numbers-on-board) |
