@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Math
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2679-count-distinct-numbers-on-board) |
