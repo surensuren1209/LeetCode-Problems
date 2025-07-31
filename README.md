@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2532-remove-letter-to-equalize-frequency](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2561-number-of-distinct-averages](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2561-number-of-distinct-averages) |
 | [2679-count-distinct-numbers-on-board](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2679-count-distinct-numbers-on-board) |
+| [2825-minimize-string-length](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [2825-minimize-string-length](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2881-split-strings-by-separator) |
 | [3194-find-words-containing-character](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3194-find-words-containing-character) |
