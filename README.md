@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0654-maximum-binary-tree](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0654-maximum-binary-tree) |
 | [0932-monotonic-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0932-monotonic-array) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0944-smallest-range-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0944-smallest-range-i) |
 | [1115-valid-boomerang](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1115-valid-boomerang) |
 | [1137-height-checker](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1137-height-checker) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0397-integer-replacement) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1610-xor-operation-in-an-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1839-decode-xored-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0343-integer-break) |
 | [0397-integer-replacement](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1761-count-sorted-vowel-strings](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1761-count-sorted-vowel-strings) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
