@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0229-majority-element-ii) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
+| [0118-pascals-triangle](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0343-integer-break) |
