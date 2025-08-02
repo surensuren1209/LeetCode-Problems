@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0135-candy) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0096-unique-binary-search-trees](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
