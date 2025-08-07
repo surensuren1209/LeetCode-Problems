@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3778-transform-array-by-parity](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3778-transform-array-by-parity) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1761-count-sorted-vowel-strings](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1761-count-sorted-vowel-strings) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## String
 |  |
 | ------- |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0079-word-search) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Segment Tree
 |  |
 | ------- |
