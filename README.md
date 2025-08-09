@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
+| [0231-power-of-two](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0343-integer-break](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0343-integer-break) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0826-soup-servings](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0826-soup-servings) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0089-gray-code) |
 | [0222-count-complete-tree-nodes](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0397-integer-replacement) |
