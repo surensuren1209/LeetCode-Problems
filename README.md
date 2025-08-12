@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2529-range-product-queries-of-powers](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2529-range-product-queries-of-powers) |
 | [2551-apply-operations-to-an-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2561-number-of-distinct-averages) |
 | [2679-count-distinct-numbers-on-board](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2679-count-distinct-numbers-on-board) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2529-range-product-queries-of-powers](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2529-range-product-queries-of-powers) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Sorting
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2529-range-product-queries-of-powers](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2529-range-product-queries-of-powers) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
