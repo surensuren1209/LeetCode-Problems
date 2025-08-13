@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0343-integer-break) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0826-soup-servings](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0826-soup-servings) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
