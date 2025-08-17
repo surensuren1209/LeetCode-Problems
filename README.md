@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3830-find-closest-person](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3830-find-closest-person) |
+| [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 ## Recursion
 |  |
 | ------- |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
 ## Sliding Window
 |  |
 | ------- |
