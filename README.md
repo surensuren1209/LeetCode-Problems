@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0343-integer-break) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0492-construct-the-rectangle](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0492-construct-the-rectangle) |
 | [0679-24-game](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
