@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0343-integer-break) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0279-perfect-squares](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0343-integer-break) |
 | [0397-integer-replacement](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0397-integer-replacement) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
