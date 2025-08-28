@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0343-integer-break) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0492-construct-the-rectangle](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0492-construct-the-rectangle) |
+| [0593-valid-square](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0593-valid-square) |
 | [0679-24-game](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0593-valid-square](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0593-valid-square) |
 | [1115-valid-boomerang](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1115-valid-boomerang) |
 ## Brainteaser
 |  |
