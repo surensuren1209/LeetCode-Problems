@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
 | [0944-smallest-range-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0944-smallest-range-i) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1115-valid-boomerang](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1115-valid-boomerang) |
 | [1137-height-checker](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1168-duplicate-zeros) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0782-jewels-and-stones) |
 | [0900-reordered-power-of-2](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1217-relative-sort-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
 | [0944-smallest-range-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0944-smallest-range-i) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1115-valid-boomerang](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1115-valid-boomerang) |
 | [1260-day-of-the-year](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1260-day-of-the-year) |
 | [1289-day-of-the-week](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1289-day-of-the-week) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0900-reordered-power-of-2) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1137-height-checker](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -661,4 +665,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0826-soup-servings) |
+## Number Theory
+|  |
+| ------- |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
