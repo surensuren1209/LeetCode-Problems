@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3226-minimum-number-game) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3321-type-of-triangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2630-alternating-digit-sum](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2630-alternating-digit-sum) |
 | [2679-count-distinct-numbers-on-board](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2679-count-distinct-numbers-on-board) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Prefix Sum
 |  |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3226-minimum-number-game) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3321-type-of-triangle) |
 | [3778-transform-array-by-parity](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3778-transform-array-by-parity) |
 ## Counting Sort
@@ -622,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0593-valid-square](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0593-valid-square) |
 | [1115-valid-boomerang](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1115-valid-boomerang) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Brainteaser
 |  |
 | ------- |
