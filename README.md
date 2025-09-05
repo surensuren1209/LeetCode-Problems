@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2529-range-product-queries-of-powers](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2529-range-product-queries-of-powers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Greedy
@@ -637,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2481-strictly-palindromic-number) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
