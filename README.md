@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2442-number-of-arithmetic-triplets](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0079-word-search) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
