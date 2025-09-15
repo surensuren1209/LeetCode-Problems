@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1217-relative-sort-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1635-number-of-good-pairs) |
 | [1813-maximum-erasure-value](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1813-maximum-erasure-value) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0851-goat-latin](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0851-goat-latin) |
 | [1205-defanging-an-ip-address](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1260-day-of-the-year) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1283-reformat-date](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1283-reformat-date) |
 | [1454-remove-palindromic-subsequences](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1454-remove-palindromic-subsequences) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
