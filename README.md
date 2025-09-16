@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2442-number-of-arithmetic-triplets](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2442-number-of-arithmetic-triplets) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-count-square-sum-triples](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2037-count-square-sum-triples) |
 | [2238-a-number-after-a-double-reversal](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2481-strictly-palindromic-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0654-maximum-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0933-increasing-order-search-tree) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Tree
 |  |
 | ------- |
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Queue
 |  |
 | ------- |
