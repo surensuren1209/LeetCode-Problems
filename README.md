@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3678-design-task-manager](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2429-design-a-food-rating-system](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2429-design-a-food-rating-system) |
 | [3226-minimum-number-game](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3226-minimum-number-game) |
+| [3678-design-task-manager](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3678-design-task-manager) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3791-fruits-into-baskets-iii) |
 ## Probability and Statistics
@@ -733,4 +736,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
