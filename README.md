@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3791-fruits-into-baskets-iii) |
+| [3797-design-spreadsheet](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Backtracking
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-design-task-manager](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3617-find-the-original-typed-string-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3636-check-balanced-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3797-design-spreadsheet](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
 | [3811-reverse-degree-of-a-string](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3912-hexadecimal-and-hexatrigesimal-conversion](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3912-hexadecimal-and-hexatrigesimal-conversion) |
@@ -702,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3797-design-spreadsheet](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
 ## Segment Tree
 |  |
 | ------- |
@@ -737,4 +741,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3797-design-spreadsheet) |
 <!---LeetCode Topics End-->
