@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0575-distribute-candies) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2023-design-movie-rental-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -727,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0079-word-search) |
+| [0407-trapping-rain-water-ii](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
