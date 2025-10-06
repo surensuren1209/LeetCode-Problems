@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0654-maximum-binary-tree) |
 | [0679-24-game](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0679-24-game) |
+| [0794-swim-in-rising-water](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0794-swim-in-rising-water) |
 | [0932-monotonic-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0932-monotonic-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0940-fruit-into-baskets) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0794-swim-in-rising-water) |
 | [1917-maximum-average-pass-ratio](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2023-design-movie-rental-system) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0794-swim-in-rising-water](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
@@ -655,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
+| [0794-swim-in-rising-water](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0975-range-sum-of-bst) |
@@ -677,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0794-swim-in-rising-water](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1005-univalued-binary-tree) |
 ## Database
@@ -741,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0794-swim-in-rising-water) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/surensuren1209/LeetCode-Problems/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/surensuren1209/LeetCode-Problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -792,4 +798,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1874-form-array-by-concatenating-subarrays-of-another-array](https://github.com/surensuren1209/LeetCode-Problems/tree/master/1874-form-array-by-concatenating-subarrays-of-another-array) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/surensuren1209/LeetCode-Problems/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
